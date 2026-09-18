@@ -1,0 +1,10 @@
+[project]
+name = "streamlit-bi-starter"
+version = "0.1.0"
+description = "Starter template for building BI dashboards with Streamlit and AI coding agents"
+requires-python = ">=3.11"
+dependencies = [
+    "streamlit>=1.44",
+    "pandas>=2.2",
+    "plotly>=5.24",
+]

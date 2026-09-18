@@ -1,0 +1,151 @@
+id,age,gender,country,state,traffic_source,created_at
+1,33,M,United Kingdom,England,Search,2025-03-09
+2,55,F,United States,Illinois,Search,2024-08-29
+3,56,M,United States,Texas,Email,2025-10-31
+4,32,F,United Kingdom,Wales,Email,2025-08-04
+5,62,F,Germany,Bavaria,Organic,2024-11-11
+6,23,F,United States,New York,Search,2024-09-13
+7,69,M,Canada,British Columbia,Ads,2025-02-26
+8,53,F,Japan,Fukuoka,Social,2024-08-20
+9,63,M,United Kingdom,Scotland,Search,2024-12-14
+10,32,M,United States,New York,Organic,2024-08-21
+11,41,F,Japan,Aichi,Search,2024-11-14
+12,52,M,United States,California,Search,2024-11-23
+13,61,F,Japan,Hokkaido,Social,2025-01-11
+14,69,F,Germany,Bavaria,Organic,2024-07-03
+15,31,F,United States,Illinois,Organic,2025-04-19
+16,34,M,Canada,Quebec,Search,2024-10-25
+17,55,F,Japan,Aichi,Organic,2025-08-13
+18,49,M,Australia,New South Wales,Ads,2025-11-04
+19,68,F,Canada,Ontario,Email,2024-11-11
+20,51,F,Japan,Hokkaido,Referral,2025-09-23
+21,61,F,Canada,Ontario,Ads,2024-09-26
+22,28,F,United States,New York,Search,2025-08-20
+23,50,M,Germany,Hamburg,Email,2025-02-25
+24,56,M,United States,New York,Search,2025-11-02
+25,18,F,Germany,Hamburg,Organic,2025-11-26
+26,33,M,United States,New York,Search,2025-04-11
+27,64,F,Japan,Tokyo,Social,2024-08-27
+28,26,F,Australia,Queensland,Referral,2024-10-07
+29,31,M,United States,Illinois,Ads,2025-08-08
+30,51,F,Japan,Aichi,Search,2025-08-23
+31,55,M,United States,New York,Email,2024-06-22
+32,22,M,United States,California,Social,2025-01-21
+33,60,F,United States,Texas,Search,2025-03-13
+34,33,F,United States,Illinois,Social,2025-09-28
+35,40,F,United States,California,Organic,2025-08-16
+36,21,F,Canada,Ontario,Ads,2024-09-09
+37,30,M,Germany,Bavaria,Email,2025-02-10
+38,47,M,United States,Texas,Social,2025-03-13
+39,21,M,United States,Illinois,Referral,2024-09-09
+40,44,F,Australia,New South Wales,Organic,2024-11-18
+41,42,M,Canada,Ontario,Referral,2024-11-16
+42,45,F,United States,Florida,Search,2025-03-20
+43,65,F,United States,California,Search,2024-08-02
+44,28,M,Japan,Hokkaido,Referral,2025-11-26
+45,56,M,United States,Texas,Ads,2024-08-10
+46,55,M,United States,California,Email,2025-02-08
+47,38,F,Japan,Hokkaido,Search,2025-11-18
+48,43,M,United Kingdom,England,Ads,2025-02-27
+49,18,F,United States,New York,Email,2024-08-14
+50,52,M,Japan,Tokyo,Email,2024-08-15
+51,33,F,United States,New York,Search,2024-08-10
+52,57,M,Japan,Hokkaido,Ads,2025-04-06
+53,34,M,Japan,Tokyo,Social,2024-10-16
+54,36,M,Germany,Bavaria,Ads,2025-03-06
+55,49,F,United States,New York,Social,2025-10-31
+56,35,M,Canada,Ontario,Search,2025-08-08
+57,28,F,Germany,Hamburg,Email,2025-02-24
+58,22,M,Japan,Tokyo,Email,2024-09-23
+59,45,M,Canada,British Columbia,Search,2024-10-30
+60,31,M,Japan,Tokyo,Ads,2025-06-02
+61,57,M,Japan,Hokkaido,Referral,2025-07-22
+62,44,M,United States,Texas,Search,2024-11-29
+63,35,M,Australia,Victoria,Ads,2025-02-10
+64,32,M,United States,California,Social,2025-09-25
+65,32,M,Japan,Aichi,Ads,2025-01-20
+66,67,F,Japan,Aichi,Organic,2024-08-11
+67,19,M,Japan,Hokkaido,Social,2025-05-06
+68,20,M,United States,Illinois,Email,2025-02-27
+69,56,M,United States,New York,Organic,2025-08-21
+70,63,F,Japan,Aichi,Search,2024-07-16
+71,41,F,Australia,Queensland,Search,2024-12-19
+72,60,M,United Kingdom,Scotland,Ads,2025-04-18
+73,38,F,United States,New York,Ads,2025-07-24
+74,60,F,Japan,Osaka,Ads,2025-08-05
+75,43,M,Canada,British Columbia,Organic,2025-04-05
+76,47,F,United States,Illinois,Organic,2025-04-26
+77,60,M,United States,Florida,Search,2024-11-21
+78,23,M,United Kingdom,Wales,Ads,2025-05-10
+79,19,M,United States,Texas,Search,2024-10-29
+80,44,M,Japan,Tokyo,Ads,2025-09-10
+81,27,M,Japan,Fukuoka,Social,2025-02-05
+82,32,M,Canada,Ontario,Social,2025-08-10
+83,53,M,United Kingdom,Scotland,Social,2024-07-22
+84,60,F,United States,Texas,Referral,2025-09-19
+85,45,F,Canada,British Columbia,Social,2025-10-30
+86,34,M,Germany,Berlin,Social,2025-09-04
+87,58,M,United States,Illinois,Search,2025-10-10
+88,35,F,United States,New York,Organic,2025-01-27
+89,32,F,Japan,Osaka,Ads,2024-11-02
+90,44,F,United Kingdom,England,Email,2025-07-30
+91,42,M,Japan,Osaka,Social,2025-08-05
+92,18,F,Germany,Berlin,Search,2025-10-02
+93,49,M,Japan,Fukuoka,Search,2025-01-12
+94,60,F,Japan,Fukuoka,Ads,2025-05-11
+95,19,F,Canada,Ontario,Email,2025-11-29
+96,26,F,United Kingdom,England,Search,2025-08-13
+97,47,F,United States,New York,Organic,2025-01-03
+98,34,M,Canada,Quebec,Organic,2025-08-06
+99,32,M,Germany,Bavaria,Ads,2025-05-25
+100,30,M,United Kingdom,England,Email,2025-02-09
+101,54,M,United States,Florida,Organic,2024-09-26
+102,56,M,United States,New York,Ads,2024-11-19
+103,55,M,United States,New York,Referral,2024-09-19
+104,63,M,Japan,Fukuoka,Search,2025-07-12
+105,24,F,United Kingdom,Wales,Social,2025-02-04
+106,40,F,United Kingdom,England,Ads,2024-07-13
+107,44,F,United States,New York,Search,2024-06-13
+108,63,M,Australia,Queensland,Organic,2025-09-14
+109,57,F,Germany,Hamburg,Organic,2025-03-04
+110,38,M,Canada,British Columbia,Social,2025-03-02
+111,66,F,United States,Florida,Email,2025-02-05
+112,49,F,United Kingdom,Scotland,Search,2024-06-30
+113,35,F,United States,New York,Email,2025-05-15
+114,33,F,Japan,Osaka,Organic,2024-08-27
+115,59,F,Germany,Hamburg,Organic,2025-10-01
+116,43,M,United States,New York,Organic,2025-01-13
+117,40,F,Japan,Fukuoka,Referral,2025-11-26
+118,35,F,Japan,Aichi,Search,2025-09-08
+119,25,M,United States,Texas,Search,2025-04-20
+120,56,F,Germany,Berlin,Referral,2025-11-20
+121,41,M,Canada,Quebec,Organic,2025-01-19
+122,20,M,United Kingdom,England,Email,2025-03-08
+123,24,M,United Kingdom,England,Email,2025-10-16
+124,29,M,Japan,Fukuoka,Search,2025-05-15
+125,43,F,Canada,Ontario,Search,2024-08-06
+126,27,F,United Kingdom,England,Search,2024-11-03
+127,56,M,United States,Illinois,Ads,2025-08-01
+128,55,F,Japan,Fukuoka,Organic,2025-04-01
+129,66,M,United Kingdom,Wales,Email,2024-09-10
+130,33,M,United States,California,Email,2024-11-08
+131,62,F,United States,Florida,Search,2025-09-05
+132,22,M,United States,New York,Referral,2025-09-08
+133,45,M,Germany,Hamburg,Email,2024-12-20
+134,22,M,United Kingdom,Scotland,Search,2024-10-24
+135,46,M,United States,Illinois,Organic,2025-03-23
+136,50,F,United States,Florida,Organic,2025-03-06
+137,56,F,Japan,Fukuoka,Search,2025-04-27
+138,66,F,United States,Illinois,Email,2024-06-22
+139,51,F,Germany,Bavaria,Social,2025-09-25
+140,58,F,United States,Illinois,Referral,2025-08-21
+141,38,M,Japan,Fukuoka,Social,2025-05-08
+142,60,F,United States,Florida,Social,2025-03-23
+143,38,F,Japan,Fukuoka,Organic,2024-08-30
+144,18,F,Australia,Victoria,Organic,2025-11-09
+145,58,F,United States,New York,Ads,2025-10-24
+146,36,F,United States,Illinois,Social,2024-10-13
+147,63,M,Japan,Tokyo,Organic,2025-02-01
+148,32,M,United States,Florida,Organic,2024-09-04
+149,63,F,United States,Texas,Email,2025-10-24
+150,33,F,United States,Florida,Email,2025-09-27
