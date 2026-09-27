@@ -80,3 +80,9 @@ cp .streamlit/secrets.toml.example .streamlit/secrets.toml
 - [Streamlit](https://streamlit.io/) - ダッシュボードフレームワーク
 - [Pandas](https://pandas.pydata.org/) - データ処理
 - [Plotly](https://plotly.com/python/) - インタラクティブな可視化
+
+## データの定義
+
+- 売上: sale_priceの合計。statusが"Cancelled"と"Returned"の注文は除外する
+- 注文数・販売数量も、特に指示がない限り同じ条件で除外する
+- ユーザーの属性（国・年齢・性別・流入元）は、orders.user_id と users.id で結合して取得する

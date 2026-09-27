@@ -11,3 +11,6 @@ __pycache__/
 
 # OS
 .DS_Store
+
+# 生成されたデータベース（scripts/create_db.pyで再生成可能）
+data/*.db
